@@ -1,6 +1,4 @@
 import axios from "axios";
-import { useContext } from "react";
-import { Context } from "../app_context/AppContext";
 
 const BASE_URL = "https://youtube138.p.rapidapi.com";
 
